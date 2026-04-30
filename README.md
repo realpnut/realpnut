@@ -10,5 +10,5 @@ Learning cybersecurity, definitely not russian agent<br><br>exploring farlands o
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scarlett-danger&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=realpnut&theme=redical&hide_border=true)
 

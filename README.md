@@ -11,3 +11,8 @@ cybersecurity amateur, definitely not russian agent<br><br>explorer of internet'
 ![](https://github-readme-stats.shion.dev/api?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=realpnut&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#
+```
+"Normies all staring asking how the dude do it
+Built an empire off of puters that i rooted"
+```

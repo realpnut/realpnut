@@ -1,10 +1,17 @@
 # 💫 About Me:
 cybersecurity amateur, definitely not russian agent<br><br>explorer of internet's farlands
-[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=realpnut/realpnut)](https://noskid.today)
 
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pnuthacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnutvacation@gmail.com) 
+
+## 📜 NoSkid Cert
+<details>
+  <summary>📜 Certificate</summary>
+
+  <img src="noskid/certificate.png" width="300">
+
+</details>
 
 # 💻 Tech Stack
 

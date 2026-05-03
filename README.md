@@ -1,5 +1,6 @@
 # 💫 About Me:
 cybersecurity amateur, definitely not russian agent<br><br>explorer of internet's farlands
+[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=realpnut/realpnut)](https://noskid.today)
 
 
 ## 🌐 Socials:

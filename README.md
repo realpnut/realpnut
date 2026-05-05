@@ -3,7 +3,7 @@ cybersecurity amateur, definitely not russian agent<br><br>explorer of internet'
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pnuthacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnutvacation@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)](https://realpnut.github.io/realpnutweb/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pnuthacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnutvacation@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)](https://realpnut.github.io/)
 
 ## 📜 NoSkid Cert
 <details>

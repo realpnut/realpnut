@@ -34,9 +34,11 @@ cybersecurity amateur, definitely not russian agent<br><br>explorer of internet'
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=realpnut&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+<img src="https://streak-stats.demolab.com/?user=realpnut&theme=tokyonight&hide_border=false" height="180" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p>
 #
 ```
 "Normies all staring asking how the dude do it

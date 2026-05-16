@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/alps.jpg" height="240" style="border-radius: 18px;" />
+  <img src="assets/alpz.jpg" height="240" style="border-radius: 18px;" />
 </p>
 
 <br/>

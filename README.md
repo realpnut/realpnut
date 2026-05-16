@@ -1,47 +1,52 @@
-# 💫 About Me:
-cybersecurity amateur, definitely not russian agent<br><br>explorer of internet's farlands
+<h1 align="center">Hi, I'm pnut 👋</h1>
 
+<p align="center">
+  cybersecurity amateur, definitely not a russian agent<br><br>
+            explorer of the internet’s farlands
+</p>
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pnuthacker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnutvacation@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white)](https://pnutsec.tech/)
+<br/>
 
-## 📜 NoSkid Cert
+<p align="center">
+  <img src="assets/alps.jpg" height="240" style="border-radius: 18px;" />
+</p>
+
+<br/>
+
+<p align="center">
+  building tools, exploring systems, breaking and fixing things
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/@pnuthacker">YouTube</a> •
+  <a href="mailto:pnutvacation@gmail.com">Email</a> •
+  <a href="https://pnutsec.tech/">Website</a>
+</p>
+
+---
+
+## 📜 Certificate
+
 <details>
-  <summary>📜 Certificate</summary>
+  <summary>view</summary>
 
-  <img src="noskid/certificate.png" width="300">
+  <br/>
+
+  <p align="center">
+    <img src="noskid/certificate.png" width="320" style="border-radius: 14px;" />
+  </p>
 
 </details>
 
-# 💻 Tech Stack
+---
 
-## 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br/>
 
-## ☁️ Cloud / Platforms
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## 🔌 Electronics / IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-00599C?style=for-the-badge)
-
-## 🎨 Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-<img src="https://streak-stats.demolab.com/?user=realpnut&theme=tokyonight&hide_border=false" height="180" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+  ───────────
 </p>
 
-#
-```
-"Normies all staring asking how the dude do it
-Built an empire off of puters that i rooted"
-```
+<p align="center">
+  "Normies all staring asking how the dude do it<br/>
+  Built an empire off computers that I rooted"
+</p>

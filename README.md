@@ -21,6 +21,7 @@
   <a href="https://youtube.com/@pnuthacker">YouTube</a> •
   <a href="mailto:pnutvacation@gmail.com">Email</a> •
   <a href="https://pnutsec.tech/">Website</a>
+  <a href="https://github.com/realpnut">Github ;)</a>
 </p>
 
 ---

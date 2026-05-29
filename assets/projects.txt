@@ -1,0 +1,55 @@
+✦ realpnut / projects ✦
+
+pnutux
+simple terminal pet
+https://github.com/realpnut/pnutux
+
+FZ-dump
+flipper zero personal files dump
+https://github.com/realpnut/FZ-dump
+
+goodbyeworld
+shitpost shell script
+https://github.com/realpnut/goodbyeworld
+
+pnutmap
+python wrapper for nmap (scanner tool)
+https://github.com/realpnut/pnutmap
+
+Kapuut
+kahoot flooder
+https://github.com/realpnut/Kapuut
+
+realpnut
+main profile repo
+https://github.com/realpnut/realpnut
+
+realpnut.github.io (pnutsec.tech)
+personal website & portfolio
+https://github.com/realpnut/realpnut.github.io OR https://pnutsec.tech
+
+deepnut
+osint tool (WIP)
+https://github.com/realpnut/deepnut
+
+poop****
+wifi radio multitool (private)
+https://github.com/realpnut/[soon]
+
+wanalyzer
+simple website analyzer with GUI
+https://github.com/realpnut/wanalyzer
+
+passwordtool
+password generator + utilities
+https://github.com/realpnut/passwordtool
+
+
+✦ end ✦
+
+
+
+
+
+
+

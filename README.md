@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm pnut 👋</h1>
 
 <p align="center">
-  cybersecurity amateur, definitely not a russian agent<br><br>
+  cybersecurity amateur, calculated linux superuser<br><br>
             explorer of the internet’s farlands
 </p>
 

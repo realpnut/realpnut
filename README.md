@@ -51,3 +51,4 @@
   "Normies all staring asking how the dude do it<br/>
   Built an empire off computers that I rooted"
 </p>
+<b> i use arch btw </b>

@@ -20,9 +20,9 @@
 │     /ossssssss/        +ssssooo/-        Disk: 237 GiB        │                                                            │
 │   `/ossssso+/:-        -:/+osssso+-      Battery: 22%         │  keep it simple, keep it fast                              │
 │  `+sso+:-`                 `.-/+oso:`    Charging             │                                                            │
-│ `++:.                           `-/+/                         │                                                            │
+│ `++:.                           `-/+/                         │  DOGE: DAWbGHUphZGqcWYReat9cca5aUthU6hULG                  │
 │ .`                                 `/                         │                                                            │
-│                                                               │                                                            │
+│                                                               │  ETH:  0x44ec8C4526D0E563357Ad23526c66094A8605ece          │
 │ ~ ❯ ▯                                                         │                                                            │
 ├───────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────┤
 │  https://pnutsec.tech/                                                                                                     │

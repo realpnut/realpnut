@@ -1,5 +1,9 @@
 ✦ realpnut / projects ✦
 
+hookspy
+poc using webhooks for spyware
+https://github.com/reaplnut/hookspy
+
 pnutux
 simple terminal pet
 https://github.com/realpnut/pnutux

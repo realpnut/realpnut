@@ -12,3 +12,6 @@
 
 [best website ever](https://pnutsec.tech)                  
 [best projects ever](https://github.com/realpnut?tab=repositories)
+
+
+please give me some ideas what should i make or add to hookspy

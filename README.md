@@ -1,5 +1,15 @@
 # Peanut
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,arch,bash,github,selenium,debian,kali" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-1F1F1F?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1F1F1F?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+
 ### cybersecurity enthusiast
 
 > learning, experimenting, breaking things, figuring out how they work.
@@ -36,10 +46,10 @@ Flipper Zero experiments and files.
 ## currently learning
 
 ```text
-C              ███████░░░  learning
+C              █████░░░░░  learning
 Python         █████████░  comfortable
-Linux          ███████░░░  exploring
-Networking     ██████░░░░  learning
+Linux          ███████░░░  comfortable
+Networking     ███░░░░░░░  learning
 Cybersecurity  ███████░░░  exploring
 ```
 ---

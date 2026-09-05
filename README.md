@@ -1,12 +1,58 @@
-# 💫 About Me:
-DOGE: DAWbGHUphZGqcWYReat9cca5aUthU6hULG<br>ETH: 0x44ec8C4526D0E563357Ad23526c66094A8605ece<br><br>few years of experience with python, currently learning C<br>i love cybersecurity and computers<br>
+# Peanut
+
+### cybersecurity enthusiast
+
+> learning, experimenting, breaking things, figuring out how they work.
+
+I like **Python**, **C**, cybersecurity, networking, and fried chicken.
+
+---
+
+## about
+
+- based in **Poland**
+- currently learning **C** and **networking**
+- exploring **cybersecurity & penetration testing**
+- open to interesting projects and collaborations
+
+---
+
+## projects
+
+**[pnutmap](https://github.com/realpnut/pnutmap)**  
+Python wrapper for Nmap.
+
+**[Kapuut](https://github.com/realpnut/Kapuut)**  
+A Selenium based kahoot flooder.
+
+**[hookspy](https://github.com/realpnut/hookspy)**  
+Proof of concept for using webhooks for spyware.
+
+**[FZ-dump](https://github.com/realpnut/FZ-dump)**  
+Flipper Zero experiments and files.
+
+---
+
+## currently learning
+
+```text
+C              ███████░░░  learning
+Python         █████████░  comfortable
+Linux          ███████░░░  exploring
+Networking     ██████░░░░  learning
+Cybersecurity  ███████░░░  exploring
+```
+---
 
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pnuthacker) 
+## support
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+If you like what I build and want to support me:
 
+**DOGE**  
+`DAWbGHUphZGqcWYReat9cca5aUthU6hULG`
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=realpnut&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**ETH**  
+`0x44ec8C4526D0E563357Ad23526c66094A8605ece`
+
+---

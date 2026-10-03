@@ -8,3 +8,5 @@ i won rpi 5 (7 days ago)
 
 
 last update: 03.10.2026
+
+## WEEK ANNIVERSARY OF WHEN I WON MY RPI5 2GB RAM !!!

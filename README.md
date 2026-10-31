@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  Won a Raspberry Pi 5 · 32 days ago
+  Won a Raspberry Pi 5 · 35 days ago
 </p>
 
 <h3 align="center">06 / crypto wallets</h3>
@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <samp>LAST UPDATE · 28.10.2026</samp>
+  <samp>LAST UPDATE · 31.10.2026</samp>
   <br /><br />
   <sub>find your line. take the trail. explore the unknown.</sub>
 </p>

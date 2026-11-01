@@ -2,7 +2,7 @@
 <h2 align="center">🎄 Christmas Countdown 🎅</h2>
 
 <p align="center">
-  <img src="https://countdown.joeylabs.com/countdown?date=2026-12-24T00:00:00" alt="Christmas Countdown" />
+  <img src="https://raw.githubusercontent.com/realpnut/christmas-countdown/main/countdown.svg" width="500" alt="Christmas Countdown" />
 </p>
 
  <p align="center">

@@ -1,3 +1,10 @@
+
+<h2 align="center">🎄 Christmas Countdown 🎅</h2>
+
+<p align="center">
+  <img src="https://countdown.joeylabs.com/countdown?date=2026-12-24T00:00:00" alt="Christmas Countdown" />
+</p>
+
  <p align="center">
   <img src="assets/alpz.jpg" alt="Alpine mountains" width="850" />
 </p>
@@ -108,7 +115,7 @@
 </p>
 
 <p align="center">
-  Won a Raspberry Pi 5 · 35 days ago
+  Won a Raspberry Pi 5 · 36 days ago
 </p>
 
 <h3 align="center">06 / crypto wallets</h3>
@@ -136,7 +143,7 @@
 </p>
 
 <p align="center">
-  <samp>LAST UPDATE · 31.10.2026</samp>
+  <samp>LAST UPDATE · 01.11.2026</samp>
   <br /><br />
   <sub>find your line. take the trail. explore the unknown.</sub>
 </p>

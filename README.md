@@ -115,7 +115,7 @@
 </p>
 
 <p align="center">
-  Won a Raspberry Pi 5 · 42 days ago
+  Won a Raspberry Pi 5 at BSides
 </p>
 
 <h3 align="center">06 / crypto wallets</h3>
@@ -143,7 +143,7 @@
 </p>
 
 <p align="center">
-  <samp>LAST UPDATE · 07.11.2026</samp>
+  <samp>LAST UPDATE · 21.11.2026</samp>
   <br /><br />
-  <sub>find your line. take the trail. explore the unknown.</sub>
+  <sub>"An idiot admires complexity, a genius admires simplicity." ~ Terry A. Davis. We miss u</sub>
 </p>
